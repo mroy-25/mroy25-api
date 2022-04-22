@@ -1,0 +1,31 @@
+{
+  "name": "mroy25-api",
+  "version": "1.0.0",
+  "description": "mroy25-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mroy-25/mroy25-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "mroy-25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mroy-25/mroy25-api/issues"
+  },
+  "homepage": "https://github.com/mroy-25/mroy25-api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "got": "^11.8.3",
+    "pdfkit": "^0.13.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
